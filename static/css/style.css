@@ -36,6 +36,9 @@ input {
 	transition: box-shadow .5s ease;
 }
 
-.body {
-	background-image: url("paper.gif");
-  }
+<style>
+div {
+    height:100%;
+    background: linear-gradient(to bottom, #990099 0%, #000066 100%)
+}
+</style>
